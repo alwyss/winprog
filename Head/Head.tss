@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>D:\Projects\Alwyss\Cpp\Windows\Head\Head\FileReader.cpp</string>
+      <string>D:\Projects\Alwyss\Cpp\Windows\Head\Head\FileReader.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Projects\Alwyss\Cpp\Windows\Head\Head\Head.cpp</string>
+      <string>D:\Projects\Alwyss\Cpp\Windows\Head\Head\Head.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
